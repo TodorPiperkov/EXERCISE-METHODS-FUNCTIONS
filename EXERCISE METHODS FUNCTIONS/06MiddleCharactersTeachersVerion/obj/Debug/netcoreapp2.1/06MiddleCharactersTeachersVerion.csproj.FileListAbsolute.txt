@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\bin\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\bin\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\bin\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\bin\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\bin\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\obj\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\obj\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\obj\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\obj\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\06MiddleCharactersTeachersVerion\obj\Debug\netcoreapp2.1\06MiddleCharactersTeachersVerion.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\bin\Debug\netcoreapp2.1\09PalindromeIntegers.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\bin\Debug\netcoreapp2.1\09PalindromeIntegers.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\bin\Debug\netcoreapp2.1\09PalindromeIntegers.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\bin\Debug\netcoreapp2.1\09PalindromeIntegers.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\bin\Debug\netcoreapp2.1\09PalindromeIntegers.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\obj\Debug\netcoreapp2.1\09PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\obj\Debug\netcoreapp2.1\09PalindromeIntegers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\obj\Debug\netcoreapp2.1\09PalindromeIntegers.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\obj\Debug\netcoreapp2.1\09PalindromeIntegers.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\obj\Debug\netcoreapp2.1\09PalindromeIntegers.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\09PalindromeIntegers\obj\Debug\netcoreapp2.1\09PalindromeIntegers.csprojAssemblyReference.cache

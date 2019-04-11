@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\bin\Debug\netcoreapp2.1\TopNumber.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\TopNumber\obj\Debug\netcoreapp2.1\TopNumber.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\bin\Debug\netcoreapp2.1\05AddandSubtract.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\bin\Debug\netcoreapp2.1\05AddandSubtract.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\bin\Debug\netcoreapp2.1\05AddandSubtract.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\bin\Debug\netcoreapp2.1\05AddandSubtract.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\bin\Debug\netcoreapp2.1\05AddandSubtract.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\obj\Debug\netcoreapp2.1\05AddandSubtract.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\obj\Debug\netcoreapp2.1\05AddandSubtract.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\obj\Debug\netcoreapp2.1\05AddandSubtract.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\obj\Debug\netcoreapp2.1\05AddandSubtract.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\obj\Debug\netcoreapp2.1\05AddandSubtract.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\05AddandSubtract\obj\Debug\netcoreapp2.1\05AddandSubtract.pdb

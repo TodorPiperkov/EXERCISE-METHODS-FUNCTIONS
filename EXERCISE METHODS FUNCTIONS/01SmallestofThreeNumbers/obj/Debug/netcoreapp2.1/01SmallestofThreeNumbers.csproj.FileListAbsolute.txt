@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestofThreeNumbers.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestofThreeNumbers.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestofThreeNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestofThreeNumbers.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestofThreeNumbers.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestofThreeNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestofThreeNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestofThreeNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestofThreeNumbers.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\01SmallestofThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestofThreeNumbers.pdb

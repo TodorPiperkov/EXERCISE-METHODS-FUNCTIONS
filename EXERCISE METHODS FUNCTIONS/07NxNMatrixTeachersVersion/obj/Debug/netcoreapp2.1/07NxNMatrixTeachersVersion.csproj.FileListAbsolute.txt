@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\bin\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\bin\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\bin\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\bin\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\bin\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\obj\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\obj\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\obj\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\obj\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\07NxNMatrixTeachersVersion\obj\Debug\netcoreapp2.1\07NxNMatrixTeachersVersion.pdb

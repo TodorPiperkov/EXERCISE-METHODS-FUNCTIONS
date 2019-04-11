@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\bin\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\bin\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\bin\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\bin\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\bin\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\obj\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\obj\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\obj\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\obj\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\02VowelsCountTeachersVersion\obj\Debug\netcoreapp2.1\02VowelsCountTeachersVersion.pdb

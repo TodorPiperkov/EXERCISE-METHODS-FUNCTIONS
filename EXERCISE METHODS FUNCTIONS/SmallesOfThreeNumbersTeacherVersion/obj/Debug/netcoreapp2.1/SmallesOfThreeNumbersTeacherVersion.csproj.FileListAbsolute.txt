@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\bin\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.deps.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\bin\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\bin\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\bin\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\bin\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\obj\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\obj\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\obj\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\obj\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\obj\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.dll
+D:\SoftUni\Tech Modul C#\EXERCISE METHODS FUNCTIONS\EXERCISE METHODS FUNCTIONS\SmallesOfThreeNumbersTeacherVersion\obj\Debug\netcoreapp2.1\SmallesOfThreeNumbersTeacherVersion.pdb
